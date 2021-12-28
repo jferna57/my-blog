@@ -3,7 +3,7 @@ title: Sobre mi
 description: 'Sobre mi '
 
 ---
-Soy un fanático de la tecnología y tengo la suerte de poder ganarme la vida con ello. Tuve mi primer ordenador con 15 años, un Amstrad 1512, como este:
+Soy un fanático de la tecnología y tengo la suerte de poder ganarme la vida con ello. Tuve mi primer ordenador con 15 años, un [Amstrad PC1512](https://es.wikipedia.org/wiki/Amstrad_PC1512 "Amstrad PC1512"), como este:
 
 ![Amstrad PC1512 - Maquinitas](https://image.jimcdn.com/app/cms/image/transf/none/path/sefda8092c97531d5/image/i846efedc229fbfa5/version/1304186057/image.jpg)
 
