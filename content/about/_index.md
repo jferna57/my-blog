@@ -1,6 +1,6 @@
 ---
-title: About
-description: This is meta description
+title: Sobre mi
+description: 'Sobre mi '
 
 ---
 Soy un fanático de la tecnología y tengo la suerte de poder ganarme la vida con ello. Tuve mi primer ordenador con 15 años, un Amstrad 1512, como este:
